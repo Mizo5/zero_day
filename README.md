@@ -1,1 +1,1 @@
-Vagrant project, Hello Ubuntu
+Vagrant project
